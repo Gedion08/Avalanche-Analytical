@@ -1,0 +1,35 @@
+{
+  "name": "avalanche",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "amqplib": "^0.10.9",
+    "async-retry": "^1.3.3",
+    "avalanche": "^3.16.0",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "jest": "^30.2.0",
+    "jsonwebtoken": "^9.0.3",
+    "ml-regression": "^6.3.0",
+    "node-cron": "^4.2.1",
+    "pg": "^8.16.3",
+    "prom-client": "^15.1.3",
+    "redis": "^5.10.0",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
+    "web3": "^4.16.0",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.4"
+  }
+}
