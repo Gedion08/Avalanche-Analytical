@@ -284,9 +284,8 @@ This project is licensed under the ISC License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or contributions:
 
-- **Email:** [your-email@example.com]
-- **GitHub Issues:** [Repository Issues](https://github.com/your-username/avalanche/issues)
-- **Discord:** [Join our community](https://discord.gg/your-invite)
+- **X (Formerly Twitter):** https://x.com/BlockLabsHQ
+- **GitHub Issues:** [Repository Issues](https://github.com/Gedion08/Avalanche-Analytical/issues)
 
 ---
 
